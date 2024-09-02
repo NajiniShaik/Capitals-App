@@ -1,0 +1,49 @@
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.detailed-container {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+  font-family: 'Roboto';
+  width: 80%;
+  max-width: 600px;
+}
+
+.title {
+  color: #323f4b;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+#selectEl {
+  width: 200px;
+  padding: 5px;
+  border-radius: 3px;
+  border: 1px solid #cbd2d9;
+  color: #000000;
+  font-size: 17px;
+}
+
+.each-option {
+  font-size: 17px;
+  font-weight: 500;
+}
+
+label {
+  color: #323f4b;
+  font-size: 18px;
+  margin-left: 5px;
+}
+
+.country-name {
+  color: #1e293b;
+  font-size: 24px;
+  font-weight: 600;
+}
